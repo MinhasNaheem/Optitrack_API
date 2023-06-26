@@ -1,0 +1,2 @@
+D:\OptitrackCPP\x64\Debug\OptitrackCPP.exe
+D:\Optitrack_API\x64\Debug\OptitrackCPP.exe
